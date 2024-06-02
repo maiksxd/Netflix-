@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+}
+
+.titulo {
+    color: red;
+}
+
+.img {
+    width: 10;
+}
+
+.img {
+    color: whitesmoke;
+    background: url(images/hora\ de\ aventura\ 1280.jpg);
+    background-repeat: no-repeat;
+}
+
+.lorem {
+    text-align: start;
+    padding: 500px 900px 0 0;
+    background-repeat: no-repeat;
+    
+}
+
+.subtitulo {
+ color: black;
+}
+
+.boton {
+margin: 10px;
+background-color: gray;
+border-radius: 5px;
+}
